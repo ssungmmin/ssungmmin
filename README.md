@@ -4,7 +4,7 @@
 
 - 🌱 4th year BioConvergence major at [Yonsei University, Underwood International College](uic.yonsei.ac.kr). 
 
-- 📫 How to reach me: Email me at [sungminp@uw.edu](sungminp@uw.edu)
+- 📫 How to reach me: Email me at [sungminp@uw.edu](sungminp@uw.edu) or [sungminspark@gmail.com](sungminspark@gmail.com) 
 
 
 
