@@ -9,7 +9,7 @@ Hello, my name is Sungmin (pronouns: she/her) and I am a researcher at the [MoNe
 
 
 
-- 📫 How to reach me: Email me at [sungminp@uw.edu](sungminp@uw.edu) or [sungminspark@gmail.com](sungminspark@gmail.com) 
+- 📫 How to reach me: Email me at [sungminspark@gmail.com](sungminspark@gmail.com) or [sungminpark@yonsei.ac.kr](sungminpark@yonsei.ac.kr)
 
 
 
