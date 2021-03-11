@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## Sung Min Park
 Hello, my name is Sungmin (pronouns: she/her) and I am a researcher at the [MoNeT](http://neuroimage.yonsei.ac.kr) (**Mo**lecular **Ne**uroimaging **T**echnology) Laboratory at Yonsei University School of Medicine, Nuclear Medicine dept. I am interested in developing novel data-driven analysis methods and my long term goal is to develop neuroimaging biomarkers for neuropsychiatric disorders. 
 
 
